@@ -1,1 +1,2 @@
 Adnan Majeed is an M.Phil qualified lecturer and a skilled professional in Machine Learning, Deep Learning, Data Science, and Artificial Intelligence. With extensive teaching and research experience, he has guided students in advanced computing concepts and real-world applications. His expertise spans developing intelligent systems, applying data-driven solutions, and delivering impactful lectures that bridge theory with practice.
+Teaching Experience: BNU, Lahore Leads University, The Hunar Foundation, PIMS Institute 
