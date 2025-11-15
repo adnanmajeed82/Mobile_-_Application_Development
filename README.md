@@ -1,4 +1,4 @@
-Tasks to be Done on this Course:
+10 Basic Mobile Apps for Students (Android Studio Projects)
 1. Basic Calculator App
 
 Concepts: Buttons, TextView, onClick events, simple arithmetic
