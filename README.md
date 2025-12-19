@@ -50,7 +50,7 @@ Features: Add expenses, categories, view total spent
 
 Concepts: SharedPreferences / Firebase Auth (optional)
 Features: Login form, registration screen, data validation
-<img width="1536" height="1024" alt="ChatGPT Image Dec 13, 2025, 09_57_39 PM" src="https://github.com/user-attachments/assets/51b5ce6e-3ba2-467e-b6f7-ede6f52e424a" />
+
 
 Adnan Majeed is an M.Phil-qualified Lecturer and a seasoned professional with over 15 years of teaching and research experience in Machine Learning, Deep Learning, Data Science, and Artificial Intelligence. Throughout his distinguished career, he has empowered students with cutting-edge knowledge in advanced computing, fostering analytical thinking and innovation.
 
@@ -61,3 +61,6 @@ Teaching Experience:
 Beaconhouse National University (BNU)
 
 Lahore Leads University
+
+[![Video Thumbnail](https://github.com/user-attachments/assets/51b5ce6e-3ba2-467e-b6f7-ede6f52e424a)](https://www.youtube.com/watch?v=zpJhBEbVc7Y&t=25s)
+
