@@ -64,3 +64,9 @@ Lahore Leads University
 
 [![Video Thumbnail](https://github.com/user-attachments/assets/51b5ce6e-3ba2-467e-b6f7-ede6f52e424a)](https://www.youtube.com/watch?v=zpJhBEbVc7Y&t=25s)
 
+<a href="https://www.youtube.com/watch?v=zpJhBEbVc7Y&t=25s" target="_blank">
+  <img src="https://github.com/user-attachments/assets/51b5ce6e-3ba2-467e-b6f7-ede6f52e424a" 
+       alt="YouTube Thumbnail" width="60%">
+</a>
+
+
