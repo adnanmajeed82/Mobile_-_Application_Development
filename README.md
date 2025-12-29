@@ -68,4 +68,7 @@ Lahore Leads University
        alt="YouTube Thumbnail" width="60%">
 </a>
 
+## 📄 Research Paper
+
+🔗 **[DESIGN AND IMPLEMENTATION OF AN ANDROID-BASED GYM ASSISTANCE APPLICATION USING JAVA AND XML / JAVA BLOCKCHAIN MOBILE APP](https://thesesjournal.com/index.php/1/article/view/1622)**
 
